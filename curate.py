@@ -27,7 +27,7 @@ def download_extract_data(src_url,file_name, extract_dir):
 
 def get_catalog_dict(catalog_dir):
     ''' 
-    Given a directory, dict of  *.catalog in the directory.
+    Given a directory, returns dict of  *.catalog in the directory.
     Includes RELATIVE location of the file, as well as the name.
     dict <K,V> format of <relative_path_dir+file_name, file_name>
     Will traverse sub-directories.
