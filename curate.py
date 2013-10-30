@@ -89,8 +89,8 @@ if __name__ == "__main__":
     #url= 'http://www.data.scec.org/ftp/catalogs/SCSN/SCSN_catalogs.tar.gz'
     #file_name = 'SCSN_catalogs.tar.gz'
 
-    dirty_dir = "dirty_data"
-    clean_dir = "clean_data"
+    dirty_dir = "dirty_data/"
+    clean_dir = "clean_data/"
     download_extract_data(url,file_name, dirty_dir)
     catalog_dict =  get_catalog_dict(dirty_dir)
     parse_and_output(catalog_dict, clean_dir, 'csv')
