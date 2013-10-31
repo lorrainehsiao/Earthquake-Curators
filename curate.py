@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# <nbformat>3.0</nbformat>
+
+# <codecell>
+
 import sys
 import urllib
 import os
@@ -94,3 +99,24 @@ if __name__ == "__main__":
     download_extract_data(url,file_name, dirty_dir)
     catalog_dict =  get_catalog_dict(dirty_dir)
     parse_and_output(catalog_dict, clean_dir, 'csv')
+
+# <codecell>
+
+from pandas import read_csv
+from pandas import concat
+
+def files(year):
+    name = 'clean_data/' + str(year) + '.catalog.csv'
+    a = read_csv(name)
+    return a
+
+year = range(1938, 2014)
+
+allData = files(year[0])
+
+for i in range(1,len(year)):
+    newData = files(year[i])
+    allData = concat([allData,newData])
+
+allData.to_csv('CleanData1938-2013.csv')
+
