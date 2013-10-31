@@ -117,6 +117,11 @@ allData = files(year[0])
 for i in range(1,len(year)):
     newData = files(year[i])
     allData = concat([allData,newData])
-
+    
+allData = allData.dropna(axis=0, how='any')
 allData.to_csv('CleanData1938-2013.csv')
+
+# <codecell>
+
+
 
