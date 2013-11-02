@@ -32,6 +32,7 @@ Goal for Tuesday (2013-11-05):
 | Group  #          | Operational Lead | Technical Lead | Curators | Presenter | 
 | -------------    |:------:|:------:|:------:| :-----: |:-----:|
 | 1 | <a href="https://github.com/xsherryxia">Sherry Xia </a>(xsherryxia) | <a href="https://github.com/kimberlyle"> Kimberly Le</a> (kimberlyle) | <a href="https://github.com/arifyali">Arif Ali</a> (arifyali), David Barrera | <a href="https://https://github.com/wliang88"> Wen Liang</a> (wliang88) | 
+| 1 | <a href="https://github.com/xsherryxia">Theresa Andrasfay </a>(xsherryxia) | <a href="https://github.com/kimberlyle"> Tristan Tao</a> (kimberlyle) | <a href="https://github.com/alisha791">Alisha Agrawal</a> (alisha791),  Barrera | <a href="https://https://github.com/lorrainehsiao"> Lorraine Hsiao</a> (lorrainehsiao) | 
 
 
 
