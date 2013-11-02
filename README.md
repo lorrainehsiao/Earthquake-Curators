@@ -32,7 +32,7 @@ Goal for Tuesday (2013-11-05):
 | Group  #          | Operational Lead | Technical Lead | Curators | Presenter | 
 | -------------    |:------:|:------:|:------:| :-----: |:-----:|
 | 1 | <a href="https://github.com/xsherryxia">Sherry Xia </a>(xsherryxia) | <a href="https://github.com/kimberlyle"> Kimberly Le</a> (kimberlyle) | <a href="https://github.com/arifyali">Arif Ali</a> (arifyali), David Barrera | <a href="https://https://github.com/wliang88"> Wen Liang</a> (wliang88) | 
-| 1 | <a href="https://github.com/tandrasfay">Theresa Andrasfay </a>(tandrasfay) | <a href="https://github.com/tristantao"> Tristan Tao</a> (tristantao) | <a href="https://github.com/alisha791">Alisha Agrawal</a> (alisha791), <a href="https://github.com/jzhang980">  Jie Zhang (jzhang980) | <a href="https://https://github.com/lorrainehsiao"> Lorraine Hsiao</a> (lorrainehsiao) | 
+| 2 | <a href="https://github.com/tandrasfay">Theresa Andrasfay </a>(tandrasfay) | <a href="https://github.com/tristantao"> Tristan Tao</a> (tristantao) | <a href="https://github.com/alisha791">Alisha Agrawal</a> (alisha791), <a href="https://github.com/jzhang980">  Jie Zhang (jzhang980) | <a href="https://https://github.com/lorrainehsiao"> Lorraine Hsiao</a> (lorrainehsiao) | 
 
 
 
