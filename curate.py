@@ -123,5 +123,15 @@ allData.to_csv('CleanData1938-2013.csv')
 
 # <codecell>
 
-
+# <codecell>
+### Code to create a datetime variable
+from pandas import read_csv
+cleandata= read_csv("CleanData1938-2013.csv")
+cleandata["datetime"] = ""
+for i in range(len(cleandata)+1):
+    cleandata["datetime"][i] = str(cleandata["YYYY/MM/DD"][i]) + " " +str(cleandata["HH:mm:SS.ss"][i])
+from pandas import to_datetime
+cleandata["datetime"]= to_datetime(cleandata["datetime"])
+### You can now subtract dates, for example: cleandata["datetime"][1]-cleandata["datetime"][0]
+# <codecell>
 
