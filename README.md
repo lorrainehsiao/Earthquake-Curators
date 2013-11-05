@@ -47,3 +47,5 @@ References:
 [Testing earthquake predictions](http://projecteuclid.org/DPubS?verb=Display&version=1.0&service=UI&handle=euclid.imsc/1207580090&page=record)
 
 [Earthquake Prediction: Simple Methods for Complex Phenomena](http://escholarship.org/uc/item/22p7f44k#page-21)
+
+[Variable Definitions](http://www.data.scec.org/eq-catalogs/docs/scec_dc.html)
